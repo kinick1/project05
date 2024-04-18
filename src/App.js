@@ -6,6 +6,7 @@ import About from './pages/About';
 import MyPage from './pages/Mypage';
 import NotFound from './pages/Notfound';
 import Product from './pages/Product';
+import './App.css';
 
 function App() {
 
